@@ -1,0 +1,705 @@
+[
+  {
+    "id": 1,
+    "name": "Crepioca de queijo com tomate e orégano",
+    "category": 1,
+    "description": "Café da manhã gostoso deixa o dia muito mais feliz. Uma alternativa ao pão é a crepioca recheada com queijo, tomate e orégano. É leve, saborosa, combina tanto com um cafezinho quanto com sucos. Você pode variar no recheio. Também vai muito bem no almoço, com uma salada verde.",
+    "updated_at": "16/09/2025",
+    "amount": 1,
+    "time": "10 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/crepioca-de-queijo-com-tomate-e-oregano-capa.png",
+    "ingredients": [
+      "1 ovo",
+      "2 colheres de sopa de tapioca",
+      "1 pitada de sal rosa",
+      "1 fio de azeite de oliva",
+      "2 fatias de queijo frescal, Minas ou gouda",
+      "1 colher de sopa de tomate-cereja",
+      "Orégano a gosto"
+    ],
+    "preparationMethod": [
+      "O ideal é utilizar goma de tapioca, pois já vem hidratada. Não é possível fazer crepioca com tapioca granulada, pérolas ou a farinha seca. Fatie o tomate-cereja bem fininho;",
+      "Em um recipiente, coloque o ovo (verifique se ele não está estragado), a tapioca e o sal. Misture bem para incorporar todos os ingredientes;",
+      "Em uma frigideira de fundo largo, aqueça um fio de azeite (deixe o fundo bem untado). Despeje a massa de crepioca e cozinhe em fogo abaixo até começar a soltar do fundo da frigideira (cerca de 1 minuto). Vire e doure o outro lado;",
+      "Em um dos lados da crepioca, coloque as duas fatias de queijo frescal (uma do lado do outro). Por cima do queijo, disponhas as fatias de tomatinho-cereja. Polvilhe o orégano (se quiser, adicione uma pitada de sal). Tampe a frigideira e cozinhe por 1 ou 2 minutos;",
+      "Assim que os tomatinhos derem uma boa murchada, desligue o fogo e dobre a crepioca ao meio (o lado sem recheio por cima do lado com recheio). Está prontinha!"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pão de queijo de liquidificador",
+    "category": 1,
+    "description": "Uma versão prática e rápida do clássico pão de queijo mineiro. A massa é toda feita no liquidificador, o que economiza tempo e sujeira na cozinha.",
+    "updated_at": "17/09/2025",
+    "amount": 12,
+    "time": "30 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/pao-de-queijo-de-liquidificador-facil.jpg",
+    "ingredients": [
+      "1 xícara de leite",
+      "1/2 xícara de óleo",
+      "1 ovo",
+      "1 xícara de queijo parmesão ralado",
+      "3 xícaras de polvilho doce",
+      "1 colher de chá de sal"
+    ],
+    "preparationMethod": [
+      "Pré-aqueça o forno a 180°C e unte forminhas de empada ou cupcake.",
+      "No liquidificador, bata o leite, o óleo e o ovo até misturar bem.",
+      "Adicione o queijo parmesão ralado, o polvilho doce e o sal. Bata novamente até obter uma massa lisa e homogênea.",
+      "Despeje a massa nas forminhas, preenchendo cerca de 2/3 da capacidade de cada uma.",
+      "Leve ao forno pré-aquecido por aproximadamente 20-25 minutos, ou até que os pães de queijo estejam dourados e inflados.",
+      "Sirva quente."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bolo de cenoura com cobertura de chocolate",
+    "category": 1,
+    "description": "O bolo de cenoura fofinho com uma calda de chocolate cremosa é um clássico dos cafés da tarde brasileiros. Uma receita que agrada a todas as idades.",
+    "updated_at": "17/09/2025",
+    "amount": 10,
+    "time": "50 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/bolo-de-cenoura-com-cobertura-de-chocolate-simples-1.jpg",
+    "ingredients": [
+      "3 cenouras médias raladas",
+      "4 ovos",
+      "1/2 xícara de óleo",
+      "2 xícaras de açúcar",
+      "2 e 1/2 xícaras de farinha de trigo",
+      "1 colher de sopa de fermento em pó",
+      "Para a cobertura: 1 xícara de chocolate em pó",
+      "Para a cobertura: 1 xícara de açúcar",
+      "Para a cobertura: 1 colher de sopa de manteiga",
+      "Para a cobertura: 1/2 xícara de leite"
+    ],
+    "preparationMethod": [
+      "No liquidificador, bata as cenouras, os ovos e o óleo até obter uma mistura homogênea.",
+      "Em uma tigela, despeje a mistura do liquidificador e adicione o açúcar e a farinha de trigo peneirada. Misture bem.",
+      "Por último, adicione o fermento em pó e misture delicadamente.",
+      "Despeje a massa em uma forma untada e enfarinhada. Asse em forno pré-aquecido a 180°C por aproximadamente 40 minutos, ou até que um palito saia limpo.",
+      "Para a cobertura, misture todos os ingredientes em uma panela e leve ao fogo baixo, mexendo sempre, até engrossar e formar uma calda cremosa.",
+      "Despeje a calda quente sobre o bolo ainda quente. Espere esfriar para servir."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Panqueca americana",
+    "category": 1,
+    "description": "Fofinhas, leves e deliciosas, as panquecas americanas são perfeitas para um café da manhã especial. Sirva com mel, frutas, geleia ou o que mais sua imaginação mandar.",
+    "updated_at": "17/09/2025",
+    "amount": 8,
+    "time": "20 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/bolo-de-cenoura-com-cobertura-de-chocolate-simples-1.jpg",
+    "ingredients": [
+      "1 e 1/4 xícara de farinha de trigo",
+      "1 colher de sopa de açúcar",
+      "3 colheres de chá de fermento em pó",
+      "2 ovos levemente batidos",
+      "1 xícara de leite",
+      "2 colheres de sopa de manteiga derretida",
+      "1 pitada de sal"
+    ],
+    "preparationMethod": [
+      "Em uma tigela grande, misture a farinha, o açúcar, o fermento e o sal.",
+      "Em outra tigela, misture os ovos, o leite e a manteiga derretida.",
+      "Despeje a mistura de líquidos sobre os ingredientes secos e mexa apenas o suficiente para umedecer a farinha. Não misture demais, a massa deve ficar um pouco empelotada.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte com um pouco de manteiga.",
+      "Coloque porções de massa (cerca de 1/4 de xícara por panqueca) e cozinhe até que bolhas apareçam na superfície.",
+      "Vire a panqueca e doure o outro lado. Sirva imediatamente com suas coberturas favoritas."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bolo de fubá cremoso",
+    "category": 1,
+    "description": "Este bolo de fubá tem uma textura incrível, com uma camada cremosa que se forma durante o cozimento. É uma receita de liquidificador, super fácil de fazer.",
+    "updated_at": "17/09/2025",
+    "amount": 12,
+    "time": "1 hora",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/bolo-de-fuba-cremoso-tradicional.png",
+    "ingredients": [
+      "4 ovos",
+      "4 xícaras de leite",
+      "3 xícaras de açúcar",
+      "1 e 1/2 xícara de fubá",
+      "2 colheres de sopa de farinha de trigo",
+      "1/2 xícara de queijo parmesão ralado",
+      "2 colheres de sopa de manteiga",
+      "1 colher de sopa de fermento em pó"
+    ],
+    "preparationMethod": [
+      "Pré-aqueça o forno a 180°C e unte e enfarinhe uma forma redonda de furo central.",
+      "No liquidificador, bata todos os ingredientes, exceto o fermento, por cerca de 3 minutos, até a mistura ficar bem homogênea.",
+      "Adicione o fermento em pó e bata rapidamente, apenas para incorporar à massa.",
+      "Despeje a massa na forma preparada (ela é bem líquida mesmo).",
+      "Asse por cerca de 45-50 minutos, ou até que a superfície esteja dourada e o bolo firme ao toque.",
+      "Deixe esfriar completamente antes de desenformar, pois ele é muito delicado enquanto quente."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Waffle caseiro",
+    "category": 1,
+    "description": "Waffles crocantes por fora e macios por dentro para um café da manhã ou lanche delicioso. Uma receita simples que requer uma máquina de waffle.",
+    "updated_at": "17/09/2025",
+    "amount": 6,
+    "time": "25 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/waffle.jpeg",
+    "ingredients": [
+      "2 xícaras de farinha de trigo",
+      "2 colheres de sopa de açúcar",
+      "2 colheres de chá de fermento em pó",
+      "1/2 colher de chá de sal",
+      "2 ovos",
+      "1 e 1/2 xícara de leite",
+      "1/3 xícara de manteiga derretida",
+      "1 colher de chá de extrato de baunilha"
+    ],
+    "preparationMethod": [
+      "Pré-aqueça sua máquina de waffle de acordo com as instruções do fabricante.",
+      "Em uma tigela grande, peneire e misture a farinha, o açúcar, o fermento e o sal.",
+      "Em outra tigela, bata os ovos e depois misture o leite, a manteiga derretida e o extrato de baunilha.",
+      "Despeje a mistura líquida sobre os ingredientes secos e mexa com um fouet até incorporar. Não misture em excesso; alguns grumos são normais.",
+      "Coloque a quantidade de massa recomendada na máquina de waffle quente e cozinhe até dourar e ficar crocante.",
+      "Sirva imediatamente com frutas, mel, chantilly ou sua cobertura preferida."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Frango xadrez",
+    "category": 2,
+    "description": "Um clássico da culinária chinesa adaptado ao paladar brasileiro. Pedaços de frango, pimentões coloridos e amendoim em um molho à base de shoyu.",
+    "updated_at": "17/09/2025",
+    "amount": 4,
+    "time": "40 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/frango-xadrez-facil-e-rapido.jpg",
+    "ingredients": [
+      "500g de filé de frango em cubos",
+      "1 pimentão verde em cubos",
+      "1 pimentão vermelho em cubos",
+      "1 pimentão amarelo em cubos",
+      "1 cebola em cubos",
+      "1/2 xícara de molho shoyu",
+      "1 colher de sopa de amido de milho",
+      "1/2 xícara de água",
+      "2 colheres de sopa de óleo de gergelim (ou vegetal)",
+      "1/2 xícara de amendoim torrado sem pele"
+    ],
+    "preparationMethod": [
+      "Tempere o frango com um pouco de shoyu e pimenta do reino. Em uma panela grande ou wok, aqueça o óleo e frite o frango até dourar. Retire da panela e reserve.",
+      "Na mesma panela, adicione mais um pouco de óleo se necessário e refogue a cebola e os pimentões até ficarem macios, mas ainda crocantes.",
+      "Em uma tigela pequena, dissolva o amido de milho na água e misture com o restante do molho shoyu.",
+      "Despeje a mistura de shoyu na panela com os legumes e cozinhe, mexendo sempre, até o molho engrossar.",
+      "Volte o frango dourado para a panela, adicione o amendoim torrado, misture bem para cobrir tudo com o molho.",
+      "Sirva quente, acompanhado de arroz branco."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Lasanha à bolonhesa",
+    "category": 2,
+    "description": "Camadas de massa, molho à bolonhesa suculento, molho branco cremoso e muito queijo. A lasanha é o prato perfeito para reunir a família no almoço de domingo.",
+    "updated_at": "17/09/2025",
+    "amount": 8,
+    "time": "1 hora e 30 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/lasanha.jpeg",
+    "ingredients": [
+      "500g de massa para lasanha (pré-cozida ou que vai direto ao forno)",
+      "500g de carne moída",
+      "2 latas de tomate pelado em cubos",
+      "1 cebola picada",
+      "2 dentes de alho picados",
+      "500g de queijo muçarela fatiado",
+      "400g de presunto fatiado",
+      "Queijo parmesão ralado a gosto",
+      "Azeite, sal e pimenta do reino a gosto"
+    ],
+    "preparationMethod": [
+      "Prepare o molho à bolonhesa: em uma panela, aqueça o azeite e refogue o alho e a cebola. Adicione a carne moída e cozinhe até dourar. Junte o tomate pelado, tempere com sal e pimenta e cozinhe em fogo baixo por cerca de 20 minutos, até o molho encorpar.",
+      "Se a massa não for do tipo que vai direto ao forno, cozinhe-a conforme as instruções da embalagem.",
+      "Monte a lasanha em um refratário grande: comece com uma camada de molho à bolonhesa no fundo para não grudar.",
+      "Faça camadas alternadas: massa de lasanha, presunto, queijo muçarela e molho à bolonhesa. Repita o processo até acabarem os ingredientes.",
+      "A última camada deve ser de molho, coberta com bastante queijo muçarela e polvilhada com queijo parmesão ralado.",
+      "Leve ao forno pré-aquecido a 180°C por cerca de 30-40 minutos, ou até o queijo estar borbulhante e dourado. Deixe descansar por 10 minutos antes de servir."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Escondidinho de carne seca",
+    "category": 2,
+    "description": "Um prato brasileiro reconfortante, com um recheio saboroso de carne seca desfiada e refogada, coberto por um purê de mandioca cremoso e gratinado com queijo.",
+    "updated_at": "17/09/2025",
+    "amount": 6,
+    "time": "1 hora e 20 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/escondidinho-de-carne-seca.jpeg",
+    "ingredients": [
+      "1kg de mandioca (aipim/macaxeira)",
+      "1 xícara de leite",
+      "2 colheres de sopa de manteiga",
+      "500g de carne seca dessalgada e desfiada",
+      "1 cebola grande picada",
+      "3 dentes de alho picados",
+      "1 tomate picado sem sementes",
+      "Cheiro-verde a gosto",
+      "200g de queijo coalho ou parmesão ralado para gratinar"
+    ],
+    "preparationMethod": [
+      "Cozinhe a mandioca em água e sal até ficar bem macia. Escorra e amasse com um garfo ou espremedor, retirando os fios centrais.",
+      "Em uma panela, prepare o purê: misture a mandioca amassada, o leite, a manteiga e sal a gosto. Cozinhe em fogo baixo, mexendo, até obter um purê cremoso e homogêneo. Reserve.",
+      "Prepare o recheio: em outra panela, aqueça um fio de azeite e refogue a cebola e o alho até dourarem. Adicione a carne seca desfiada e refogue por alguns minutos. Junte o tomate e o cheiro-verde, misture bem e cozinhe por mais 5 minutos. Reserve.",
+      "Em um refratário, espalhe o recheio de carne seca no fundo.",
+      "Cubra o recheio com o purê de mandioca, espalhando de maneira uniforme.",
+      "Polvilhe o queijo ralado por cima e leve ao forno pré-aquecido a 200°C para gratinar, por cerca de 20 minutos ou até dourar. Sirva quente."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Strogonoff de frango",
+    "category": 2,
+    "description": "Um prato cremoso e saboroso que é sucesso garantido. Pedaços de frango em um molho à base de creme de leite, ketchup e champignon. Sirva com arroz e batata palha.",
+    "updated_at": "17/09/2025",
+    "amount": 4,
+    "time": "30 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/strogonoff-de-carne-rapido-capa.png",
+    "ingredients": [
+      "1kg de peito de frango em cubos",
+      "1 dente de alho picado",
+      "1/2 cebola picada",
+      "2 colheres de sopa de manteiga",
+      "1/2 xícara de ketchup",
+      "2 colheres de sopa de mostarda",
+      "200g de champignon fatiado",
+      "1 lata de creme de leite sem soro",
+      "Sal e pimenta do reino a gosto"
+    ],
+    "preparationMethod": [
+      "Tempere o frango com sal e pimenta do reino.",
+      "Em uma panela, derreta a manteiga em fogo médio e doure o alho e a cebola.",
+      "Adicione o frango e frite até que esteja dourado por todos os lados.",
+      "Acrescente o ketchup, a mostarda e o champignon fatiado. Misture bem e deixe cozinhar por alguns minutos.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo delicadamente para não talhar.",
+      "Aqueça novamente em fogo baixo, sem deixar ferver. Ajuste o sal se necessário e sirva imediatamente com arroz branco e batata palha."
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Risoto de cogumelos",
+    "category": 2,
+    "description": "Um prato italiano sofisticado e cremoso. O risoto de cogumelos é perfeito para um jantar especial, combinando o sabor terroso dos cogumelos com a cremosidade do arroz arbóreo e parmesão.",
+    "updated_at": "17/09/2025",
+    "amount": 4,
+    "time": "45 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/risoto-de-cogumelo-paris-capa.jpg",
+    "ingredients": [
+      "1 e 1/2 xícara de arroz arbóreo ou carnaroli",
+      "200g de cogumelos frescos (paris, shitake ou portobello), fatiados",
+      "1/2 cebola picada",
+      "2 dentes de alho picados",
+      "1/2 xícara de vinho branco seco",
+      "1,5 litro de caldo de legumes quente",
+      "1/2 xícara de queijo parmesão ralado na hora",
+      "2 colheres de sopa de manteiga gelada",
+      "Azeite, sal e pimenta do reino a gosto"
+    ],
+    "preparationMethod": [
+      "Em uma frigideira, aqueça um fio de azeite e salteie os cogumelos fatiados com um dente de alho até dourarem e perderem a água. Tempere com sal e pimenta e reserve.",
+      "Em uma panela funda, aqueça um pouco de azeite e refogue a cebola e o outro dente de alho até ficarem transparentes.",
+      "Adicione o arroz e frite por cerca de 2 minutos, mexendo sempre, para selar os grãos (processo de 'nacarar').",
+      "Despeje o vinho branco e mexa até que evapore por completo.",
+      "Comece a adicionar o caldo de legumes quente, uma concha por vez, mexendo constantemente. Espere o líquido ser quase todo absorvido antes de adicionar a próxima concha. Continue esse processo por cerca de 18-20 minutos, até o arroz ficar 'al dente' (cozido, mas ainda firme).",
+      "Quando o arroz estiver no ponto, desligue o fogo. Adicione os cogumelos reservados, a manteiga gelada e o queijo parmesão. Misture vigorosamente para criar uma consistência cremosa (processo de 'mantecare'). Ajuste o sal e a pimenta e sirva imediatamente."
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Pudim de leite condensado",
+    "category": 3,
+    "description": "A sobremesa mais amada do Brasil. Cremoso, lisinho e com uma calda de caramelo perfeita, o pudim de leite condensado é infalível.",
+    "updated_at": "17/09/2025",
+    "amount": 8,
+    "time": "1 hora e 30 minutos + geladeira",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/pudim-de-leite-condensado-capa.jpeg",
+    "ingredients": [
+      "1 lata de leite condensado",
+      "A mesma medida da lata de leite integral",
+      "3 ovos inteiros",
+      "Para a calda: 1 xícara de açúcar",
+      "Para a calda: 1/2 xícara de água quente"
+    ],
+    "preparationMethod": [
+      "Prepare a calda: em uma forma de pudim com furo central, derreta o açúcar em fogo baixo até virar um caramelo dourado. Cuidado para não queimar.",
+      "Com muito cuidado, adicione a água quente e mexa até dissolver os torrões de açúcar e a calda ficar lisa. Gire a forma para que a calda cubra todo o fundo e as laterais. Reserve.",
+      "No liquidificador, bata o leite condensado, o leite e os ovos por cerca de 3 minutos, até a mistura ficar bem homogênea.",
+      "Despeje a mistura do pudim na forma caramelizada, passando por uma peneira para garantir que fique lisinho.",
+      "Cubra a forma com papel alumínio e asse em banho-maria (coloque a forma de pudim dentro de uma assadeira maior com água quente) em forno pré-aquecido a 180°C por cerca de 1 hora e 30 minutos.",
+      "O pudim está pronto quando, ao espetar um palito, ele sai limpo. Deixe esfriar e leve à geladeira por pelo menos 6 horas antes de desenformar. Sirva gelado."
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Brigadeirão",
+    "category": 3,
+    "description": "Um pudim de chocolate intenso e cremoso, sem a necessidade de ir ao fogo antes de assar. O brigadeirão é uma sobremesa prática e deliciosa.",
+    "updated_at": "17/09/2025",
+    "amount": 10,
+    "time": "1 hora + geladeira",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/brigadeirao-de-forno.jpeg",
+    "ingredients": [
+      "1 lata de leite condensado",
+      "1 lata de creme de leite",
+      "1 xícara de chocolate em pó (50% cacau)",
+      "4 colheres de sopa de açúcar",
+      "1 colher de sopa de manteiga sem sal",
+      "3 ovos",
+      "Chocolate granulado para decorar"
+    ],
+    "preparationMethod": [
+      "Unte generosamente uma forma de furo central com manteiga e polvilhe açúcar ou chocolate em pó.",
+      "No liquidificador, coloque o leite condensado, o creme de leite, o chocolate em pó, o açúcar, a manteiga e os ovos.",
+      "Bata tudo por aproximadamente 5 minutos, até que a mistura esteja completamente lisa e aerada.",
+      "Despeje a mistura na forma preparada.",
+      "Cubra com papel alumínio e asse em banho-maria em forno pré-aquecido a 180°C por cerca de 1 hora, ou até firmar.",
+      "Deixe esfriar, leve à geladeira por no mínimo 4 horas, desenforme com cuidado e decore com chocolate granulado antes de servir."
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Torta de limão com merengue",
+    "category": 3,
+    "description": "Uma sobremesa que equilibra o doce e o azedo de forma perfeita. Base crocante de biscoito, recheio cremoso de limão e cobertura de merengue suíço dourado.",
+    "updated_at": "17/09/2025",
+    "amount": 10,
+    "time": "40 minutos + geladeira",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/torta-de-limao-com-merengue-730x1297.jpg",
+    "ingredients": [
+      "Para a base: 200g de biscoito maisena triturado",
+      "Para a base: 100g de manteiga sem sal derretida",
+      "Para o recheio: 1 lata de leite condensado",
+      "Para o recheio: 1/2 xícara de suco de limão coado",
+      "Para o recheio: Raspas de 1 limão",
+      "Para o merengue: 3 claras",
+      "Para o merengue: 1 xícara de açúcar"
+    ],
+    "preparationMethod": [
+      "Para a base, misture o biscoito triturado com a manteiga derretida até formar uma farofa úmida. Forre o fundo e as laterais de uma forma de fundo removível (22 cm de diâmetro). Pressione bem e asse em forno pré-aquecido a 180°C por 10 minutos. Deixe esfriar.",
+      "Para o recheio, misture em uma tigela o leite condensado com o suco e as raspas de limão até obter um creme espesso e homogêneo. Despeje sobre a base de biscoito já fria e espalhe bem.",
+      "Para o merengue suíço, leve as claras e o açúcar ao fogo baixo em banho-maria, mexendo sem parar até que os cristais de açúcar se dissolvam completamente (cerca de 4 minutos).",
+      "Transfira a mistura para a batedeira e bata em velocidade alta até formar um merengue firme e brilhante, que forme picos.",
+      "Espalhe o merengue sobre o creme de limão, fazendo picos decorativos com as costas de uma colher.",
+      "Leve ao forno alto (220°C) por cerca de 5-10 minutos, ou use um maçarico culinário, apenas para dourar o merengue. Leve à geladeira por pelo menos 3 horas antes de servir."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Cheesecake de frutas vermelhas",
+    "category": 3,
+    "description": "Uma sobremesa sofisticada e deliciosa, com base de biscoito, um creme de queijo suave e uma calda azedinha de frutas vermelhas.",
+    "updated_at": "17/09/2025",
+    "amount": 12,
+    "time": "1 hora e 20 minutos + geladeira",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/cheesecake-de-frutas-vermelhas.jpeg",
+    "ingredients": [
+      "Para a base: 200g de biscoito de maisena triturado",
+      "Para a base: 100g de manteiga derretida",
+      "Para o creme: 600g de cream cheese em temperatura ambiente",
+      "Para o creme: 1 lata de leite condensado",
+      "Para o creme: 3 ovos",
+      "Para o creme: 1 colher de chá de essência de baunilha",
+      "Para a calda: 300g de frutas vermelhas congeladas (morangos, amoras, framboesas)",
+      "Para a calda: 1/2 xícara de açúcar"
+    ],
+    "preparationMethod": [
+      "Misture o biscoito triturado com a manteiga e forre o fundo de uma forma de fundo removível (24 cm), pressionando bem. Asse em forno pré-aquecido a 180°C por 10 minutos e reserve.",
+      "Na batedeira, bata o cream cheese até ficar bem cremoso e sem grumos. Adicione o leite condensado e bata mais um pouco.",
+      "Acrescente os ovos, um de cada vez, batendo bem após cada adição. Por fim, adicione a baunilha e misture.",
+      "Despeje o creme sobre a base de biscoito já fria. Asse em forno baixo (160°C) por cerca de 50-60 minutos, ou até as bordas estarem firmes e o centro ainda levemente mole. Desligue o forno e deixe o cheesecake esfriar lá dentro com a porta entreaberta.",
+      "Leve à geladeira por no mínimo 6 horas.",
+      "Para a calda, leve as frutas vermelhas e o açúcar ao fogo baixo, cozinhando e mexendo de vez em quando, até obter uma consistência de geleia (cerca de 15 minutos). Deixe esfriar completamente e sirva sobre o cheesecake já gelado."
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Pavê de chocolate simples",
+    "category": 3,
+    "description": "É pavê ou pra comer? A clássica sobremesa de camadas de biscoito e creme de chocolate que não pode faltar nas festas de família.",
+    "updated_at": "17/09/2025",
+    "amount": 10,
+    "time": "30 minutos + geladeira",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/pave-de-chocolate-simples-1.jpg",
+    "ingredients": [
+      "1 lata de leite condensado",
+      "1 litro de leite",
+      "4 colheres de sopa de amido de milho",
+      "1 xícara de chocolate em pó",
+      "1 caixinha de creme de leite",
+      "2 pacotes de biscoito maisena",
+      "Leite para umedecer os biscoitos"
+    ],
+    "preparationMethod": [
+      "Em uma panela, misture o leite condensado, o amido de milho (já dissolvido em um pouco do leite para não empelotar), o restante do leite e o chocolate em pó.",
+      "Leve ao fogo médio, mexendo continuamente, até engrossar e formar um creme.",
+      "Desligue o fogo, espere amornar um pouco e misture o creme de leite até incorporar bem.",
+      "Em um refratário, faça a montagem: comece com uma camada do creme de chocolate.",
+      "Umedeça rapidamente os biscoitos no leite e faça uma camada sobre o creme. Alterne as camadas de creme e biscoito, finalizando com uma camada generosa de creme.",
+      "Decore com chocolate granulado ou raspas de chocolate. Leve à geladeira por pelo menos 4 horas antes de servir, para que fique firme e gelado."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Dadinho de tapioca",
+    "category": 4,
+    "description": "Um petisco crocante por fora e cremoso por dentro, feito com tapioca granulada e queijo coalho. Perfeito para servir com geleia de pimenta.",
+    "updated_at": "17/09/2025",
+    "amount": 25,
+    "time": "30 minutos + 3 horas de geladeira",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/dadinhos-de-tapioca-capa.png",
+    "ingredients": [
+      "250g de tapioca granulada",
+      "250g de queijo coalho ralado",
+      "500ml de leite integral fervente",
+      "Sal e pimenta do reino a gosto",
+      "Óleo para fritar ou azeite para assar"
+    ],
+    "preparationMethod": [
+      "Em uma tigela grande, misture a tapioca granulada, o queijo coalho ralado, sal e pimenta do reino a gosto.",
+      "Despeje o leite fervente sobre a mistura e mexa muito bem e rapidamente com um fouet ou espátula, até que a massa comece a engrossar e ficar homogênea.",
+      "Transfira a massa para uma assadeira pequena forrada com plástico filme, espalhando para formar uma camada uniforme de cerca de 2 cm de espessura.",
+      "Cubra com plástico filme e leve à geladeira por pelo menos 3 horas, ou até que a massa esteja bem firme.",
+      "Desenforme a massa firme e corte-a em cubos (dadinhos) de 2x2 cm.",
+      "Frite os dadinhos em óleo quente até dourarem por todos os lados, ou asse na airfryer ou forno pré-aquecido a 200°C, pincelados com azeite, até ficarem crocantes. Sirva com geleia de pimenta."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Coxinha de frango com catupiry",
+    "category": 4,
+    "description": "O salgado mais famoso do Brasil em sua versão mais amada: com recheio cremoso de frango desfiado e catupiry. Impossível comer uma só.",
+    "updated_at": "17/09/2025",
+    "amount": 20,
+    "time": "1 hora e 40 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/coxinha-de-frango-com-catupiry-capa.png",
+    "ingredients": [
+      "Para o recheio: 1kg de peito de frango cozido e desfiado",
+      "Para a massa: 2 xícaras do caldo do cozimento do frango",
+      "Para a massa: 2 xícaras de farinha de trigo",
+      "Para a massa: 2 colheres de sopa de manteiga",
+      "Para rechear: Requeijão cremoso tipo Catupiry a gosto",
+      "Para empanar: Ovos batidos e farinha de rosca",
+      "Óleo para fritar"
+    ],
+    "preparationMethod": [
+      "Cozinhe o peito de frango na pressão com temperos (cebola, alho, sal). Desfie o frango e refogue com mais temperos a gosto. Coe e reserve o caldo do cozimento.",
+      "Em uma panela, aqueça 2 xícaras do caldo do frango coado com a manteiga. Quando ferver, adicione a farinha de trigo de uma só vez.",
+      "Mexa vigorosamente com uma colher de pau até a massa cozinhar e desgrudar completamente do fundo da panela, formando uma bola.",
+      "Transfira a massa para uma bancada untada e sove-a ainda morna até ficar lisa e macia.",
+      "Pegue pequenas porções da massa, abra na palma da mão, coloque um pouco do recheio de frango e uma colher de chá de catupiry. Feche bem a massa, modelando no formato de coxinha.",
+      "Passe as coxinhas modeladas no ovo batido e depois na farinha de rosca. Frite em óleo quente e abundante até dourarem por igual. Escorra em papel toalha."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Bolinho de chuva sequinho",
+    "category": 4,
+    "description": "Um petisco doce com gostinho de infância. Bolinhos fritos macios e fofinhos, passados em uma mistura de açúcar e canela.",
+    "updated_at": "17/09/2025",
+    "amount": 30,
+    "time": "25 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/bolinho-de-chuva-capa.png",
+    "ingredients": [
+      "2 ovos",
+      "1 xícara de açúcar",
+      "1 xícara de leite",
+      "2 e 1/2 xícaras de farinha de trigo",
+      "1 colher de sopa de fermento em pó",
+      "Óleo para fritar",
+      "Açúcar e canela em pó para polvilhar"
+    ],
+    "preparationMethod": [
+      "Em uma tigela, bata os ovos com o açúcar até obter um creme claro.",
+      "Adicione o leite e misture. Em seguida, acrescente a farinha de trigo aos poucos, mexendo bem para não empelotar.",
+      "Por último, incorpore o fermento em pó delicadamente à massa.",
+      "Aqueça o óleo em uma panela funda em fogo médio. O óleo não deve estar quente demais para não queimar por fora e ficar cru por dentro.",
+      "Com a ajuda de duas colheres, modele pequenas porções de massa e coloque para fritar no óleo quente.",
+      "Frite os bolinhos até dourarem por igual. Retire com uma escumadeira, escorra em papel toalha e, ainda quentes, passe-os na mistura de açúcar e canela."
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Guacamole tradicional",
+    "category": 4,
+    "description": "Um clássico mexicano, o guacamole é um purê de abacate temperado, perfeito para servir com tortilhas, tacos ou como acompanhamento.",
+    "updated_at": "17/09/2025",
+    "amount": 4,
+    "time": "15 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/guacamole-facil-00.jpg",
+    "ingredients": [
+      "2 abacates maduros (tipo avocado é ideal)",
+      "1 tomate pequeno, sem sementes, picado em cubos mínimos",
+      "1/2 cebola roxa pequena, picada em cubos mínimos",
+      "Suco de 1 limão taiti",
+      "Coentro fresco picado a gosto",
+      "Sal e pimenta do reino a gosto",
+      "Opcional: 1 pimenta dedo-de-moça ou jalapeño, sem sementes, picada"
+    ],
+    "preparationMethod": [
+      "Corte os abacates ao meio, retire o caroço e, com uma colher, remova a polpa para uma tigela.",
+      "Amasse a polpa grosseiramente com um garfo, deixando alguns pedaços para dar textura.",
+      "Imediatamente, adicione o suco de limão e misture bem. Isso ajuda a evitar que o abacate oxide e escureça.",
+      "Incorpore a cebola roxa, o tomate, o coentro e a pimenta (se estiver usando).",
+      "Tempere com sal e pimenta do reino a gosto e misture delicadamente.",
+      "Prove e ajuste os temperos se necessário. Sirva imediatamente com nachos, tortilhas ou como acompanhamento de pratos mexicanos."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Pão de alho para churrasco",
+    "category": 4,
+    "description": "O acompanhamento perfeito para qualquer churrasco. Pão recheado com uma pasta de alho cremosa, queijo e ervas, que fica crocante na brasa.",
+    "updated_at": "17/09/2025",
+    "amount": 6,
+    "time": "20 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/pao-de-alho-para-churrasco-730x730.jpg",
+    "ingredients": [
+      "1 pão de baguete ou pão francês",
+      "4 dentes de alho grandes, bem amassados ou triturados",
+      "1/2 xícara de maionese de boa qualidade",
+      "1/2 xícara de queijo parmesão ou muçarela ralado",
+      "2 colheres de sopa de manteiga em temperatura ambiente",
+      "Cheiro-verde (salsinha e cebolinha) picado a gosto",
+      "Sal e orégano a gosto"
+    ],
+    "preparationMethod": [
+      "Em uma tigela, prepare a pasta de alho: misture bem o alho amassado, a maionese, o queijo ralado, a manteiga, o cheiro-verde, o sal e o orégano.",
+      "Corte o pão em fatias de cerca de 2 cm de espessura, mas sem chegar até o final. As fatias devem permanecer unidas na base do pão.",
+      "Com uma faca ou espátula, recheie generosamente os vãos entre as fatias com a pasta de alho.",
+      "Passe um pouco da pasta também por cima do pão.",
+      "Enrole o pão em papel alumínio (se for fazer no forno) ou leve diretamente para a grelha da churrasqueira em fogo brando.",
+      "Asse na churrasqueira ou no forno pré-aquecido a 200°C até o pão ficar crocante e o recheio derreter e dourar (cerca de 15-20 minutos)."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Caipirinha tradicional",
+    "category": 5,
+    "description": "O drink mais famoso do Brasil. Uma mistura simples e poderosa de cachaça, limão, açúcar e gelo. Refrescante e cheia de sabor.",
+    "updated_at": "17/09/2025",
+    "amount": 1,
+    "time": "5 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/caipirinha-de-limao-1-730x548.jpg",
+    "ingredients": [
+      "1 limão taiti",
+      "2 colheres de sopa de açúcar (branco ou demerara)",
+      "50ml de cachaça de boa qualidade",
+      "Gelo a gosto"
+    ],
+    "preparationMethod": [
+      "Lave bem o limão e corte as duas pontas. Corte o limão ao meio no sentido do comprimento e retire a parte branca central, que pode amargar a bebida.",
+      "Corte as metades do limão em fatias ou cubos.",
+      "Em um copo baixo e resistente (tipo old fashioned), coloque os pedaços de limão e o açúcar.",
+      "Com um socador (macerador), amasse suavemente o limão com o açúcar para extrair o suco e os óleos da casca, sem esmagar demais para não amargar.",
+      "Adicione a cachaça e complete o copo com gelo em cubos.",
+      "Mexa bem com uma colher bailarina ou simplesmente transfira a bebida para uma coqueteleira, agite e devolva ao copo. Sirva imediatamente."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Chocolate quente cremoso",
+    "category": 5,
+    "description": "Perfeito para aquecer os dias frios. Uma bebida aveludada e com sabor intenso de chocolate, mais espessa que o achocolatado comum.",
+    "updated_at": "17/09/2025",
+    "amount": 2,
+    "time": "15 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/chocolate-quente-cremoso-simples-e-rapido.jpg",
+    "ingredients": [
+      "2 xícaras de leite integral",
+      "1 colher de sopa de amido de milho",
+      "3 colheres de sopa de chocolate em pó (50% cacau)",
+      "4 colheres de sopa de açúcar (ou a gosto)",
+      "1 caixinha de creme de leite (200g)",
+      "Opcional: 1 pitada de canela em pó"
+    ],
+    "preparationMethod": [
+      "Em uma panela (com o fogo ainda desligado), dissolva o amido de milho e o chocolate em pó em um pouco do leite para não empelotar.",
+      "Adicione o restante do leite, o açúcar e a canela (se usar). Misture bem.",
+      "Leve a panela ao fogo médio, mexendo continuamente com um fouet, até a mistura começar a ferver e engrossar.",
+      "Quando atingir a cremosidade desejada, desligue o fogo.",
+      "Adicione o creme de leite e misture bem até ficar homogêneo. Isso trará mais cremosidade e suavidade.",
+      "Sirva quente, em canecas. Se desejar, decore com chantilly, raspas de chocolate ou marshmallows."
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Suco detox verde",
+    "category": 5,
+    "description": "Uma bebida refrescante e nutritiva para começar o dia. Combina folhas verdes, frutas e sementes para um impulso de energia e vitaminas.",
+    "updated_at": "17/09/2025",
+    "amount": 2,
+    "time": "10 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/suco-detox-de-couve-com-abacaxi-capa.png",
+    "ingredients": [
+      "2 folhas de couve manteiga",
+      "1 maçã verde ou gala, com casca",
+      "Suco de 1/2 limão",
+      "1 pedaço pequeno de gengibre (cerca de 2 cm)",
+      "200ml de água de coco ou água filtrada gelada",
+      "Algumas folhas de hortelã"
+    ],
+    "preparationMethod": [
+      "Lave bem as folhas de couve, a maçã e a hortelã.",
+      "Pique a maçã em pedaços menores, descartando o miolo e as sementes. Rasgue as folhas de couve com as mãos.",
+      "Descasque o gengibre.",
+      "No liquidificador, coloque a couve, a maçã, o gengibre, as folhas de hortelã e o suco de limão.",
+      "Adicione a água de coco ou a água gelada.",
+      "Bata tudo em alta velocidade por cerca de 2 minutos, até que a mistura esteja completamente lisa e homogênea. Se preferir um suco mais ralo, adicione mais água. Sirva imediatamente, de preferência sem coar para aproveitar todas as fibras."
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Vitamina de banana com aveia",
+    "category": 5,
+    "description": "Uma bebida clássica, nutritiva e que dá muita energia. Perfeita para um café da manhã rápido ou um lanche da tarde reforçado.",
+    "updated_at": "17/09/2025",
+    "amount": 2,
+    "time": "5 minutos",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/leite-de-aveia-caseiro.jpg",
+    "ingredients": [
+      "2 bananas nanicas maduras (congeladas para mais cremosidade)",
+      "2 xícaras de leite (pode ser vegetal)",
+      "2 colheres de sopa de aveia em flocos",
+      "Opcional: 1 colher de sopa de mel ou melado de cana para adoçar"
+    ],
+    "preparationMethod": [
+      "Descasque as bananas e coloque-as no copo do liquidificador. Se estiverem congeladas, a vitamina ficará mais cremosa e gelada.",
+      "Adicione o leite e a aveia em flocos.",
+      "Se desejar uma vitamina mais doce, adicione o mel ou melado.",
+      "Bata tudo em velocidade alta por cerca de 1 minuto, ou até obter uma mistura cremosa e homogênea, sem pedaços de banana.",
+      "Sirva imediatamente em copos altos.",
+      "Para uma versão mais nutritiva, você pode adicionar uma colher de chia ou linhaça."
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Água saborizada de limão e hortelã",
+    "category": 5,
+    "description": "Uma forma refrescante, elegante e saudável de se manter hidratado. Combine frutas, ervas e especiarias para criar sabores únicos e deliciosos.",
+    "updated_at": "17/09/2025",
+    "amount": 4,
+    "time": "5 minutos + descanso",
+    "img": "https://www.receiteria.com.br/wp-content/uploads/caipirinha-de-limao-com-maracuja-00.png",
+    "ingredients": [
+      "1 litro de água filtrada ou mineral, gelada",
+      "1 limão siciliano ou taiti, em rodelas finas",
+      "1/2 pepino japonês em rodelas finas",
+      "1 ramo generoso de hortelã fresca",
+      "Gelo a gosto"
+    ],
+    "preparationMethod": [
+      "Lave bem o limão, o pepino e a hortelã.",
+      "Em uma jarra grande de vidro, coloque as rodelas de limão, as rodelas de pepino e as folhas de hortelã.",
+      "Com uma colher longa ou um socador, amasse levemente os ingredientes no fundo da jarra para liberar os sabores e aromas.",
+      "Adicione a água gelada e o gelo.",
+      "Misture bem e deixe na geladeira por pelo menos 30 minutos antes de servir. Quanto mais tempo ficar na geladeira, mais sabor a água irá absorver.",
+      "Sirva em copos com mais gelo e algumas folhas de hortelã para decorar."
+    ]
+  }
+]

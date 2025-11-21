@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Café da manhã & Café da tarde"
+  },
+  {
+    "id": 2,
+    "name": "Almoço & Jantar"
+  },
+
+  {
+    "id": 3,
+    "name": "Sobremesas & doces"
+  },
+  {
+    "id": 4,
+    "name": "Entradas & Petiscos"
+  },
+  {
+    "id": 5,
+    "name": "Bebidas"
+  }
+]
