@@ -317,7 +317,7 @@
     "description": "A sobremesa mais amada do Brasil. Cremoso, lisinho e com uma calda de caramelo perfeita, o pudim de leite condensado é infalível.",
     "updated_at": "17/09/2025",
     "amount": 8,
-    "time": "1 hora e 30 minutos + geladeira",
+    "time": "1 hora e 30 minutos",
     "img": "https://www.receiteria.com.br/wp-content/uploads/pudim-de-leite-condensado-capa.jpeg",
     "ingredients": [
       "1 lata de leite condensado",
@@ -342,7 +342,7 @@
     "description": "Um pudim de chocolate intenso e cremoso, sem a necessidade de ir ao fogo antes de assar. O brigadeirão é uma sobremesa prática e deliciosa.",
     "updated_at": "17/09/2025",
     "amount": 10,
-    "time": "1 hora + geladeira",
+    "time": "1 hora",
     "img": "https://www.receiteria.com.br/wp-content/uploads/brigadeirao-de-forno.jpeg",
     "ingredients": [
       "1 lata de leite condensado",
@@ -369,7 +369,7 @@
     "description": "Uma sobremesa que equilibra o doce e o azedo de forma perfeita. Base crocante de biscoito, recheio cremoso de limão e cobertura de merengue suíço dourado.",
     "updated_at": "17/09/2025",
     "amount": 10,
-    "time": "40 minutos + geladeira",
+    "time": "40 minutos",
     "img": "https://www.receiteria.com.br/wp-content/uploads/torta-de-limao-com-merengue-730x1297.jpg",
     "ingredients": [
       "Para a base: 200g de biscoito maisena triturado",
@@ -396,7 +396,7 @@
     "description": "Uma sobremesa sofisticada e deliciosa, com base de biscoito, um creme de queijo suave e uma calda azedinha de frutas vermelhas.",
     "updated_at": "17/09/2025",
     "amount": 12,
-    "time": "1 hora e 20 minutos + geladeira",
+    "time": "1 hora e 20 minutos",
     "img": "https://www.receiteria.com.br/wp-content/uploads/cheesecake-de-frutas-vermelhas.jpeg",
     "ingredients": [
       "Para a base: 200g de biscoito de maisena triturado",
@@ -424,7 +424,7 @@
     "description": "É pavê ou pra comer? A clássica sobremesa de camadas de biscoito e creme de chocolate que não pode faltar nas festas de família.",
     "updated_at": "17/09/2025",
     "amount": 10,
-    "time": "30 minutos + geladeira",
+    "time": "30 minutos",
     "img": "https://www.receiteria.com.br/wp-content/uploads/pave-de-chocolate-simples-1.jpg",
     "ingredients": [
       "1 lata de leite condensado",
