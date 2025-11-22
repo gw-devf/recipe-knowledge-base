@@ -371,6 +371,15 @@ body {
   color: var(--color-base-06);
 }
 
+.recipe {
+  transition: all 0.8s ease-in-out;
+  opacity: 0;
+}
+
+.recipe--animated {
+  opacity: 1;
+}
+
 .recipe__data {
   display: flex;
   justify-content: space-between;

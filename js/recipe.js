@@ -18,7 +18,7 @@ const mountRecipe = (recipeClicked, categories, recipeEl) => {
 
 window.onload = async () => {
   if (localStorage.getItem("recipeId") === null) {
-    window.location.href = "../src/index.html";
+    window.location.href = "../index.html";
   }
   const recipeEl = document.querySelector(".recipe");
 
@@ -31,10 +31,11 @@ window.onload = async () => {
   );
 
   mountRecipe(recipeClicked, categories, recipeEl);
+  recipeEl.classList.add("recipe--animated");
 
   const button = document.querySelector(".button");
   button.addEventListener("click", () => {
-    window.location.href = "../src/index.html";
+    window.location.href = "../index.html";
     localStorage.removeItem("recipeId");
   });
 };
