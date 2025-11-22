@@ -26,4 +26,5 @@ window.onload = async () => {
   aboutEl.innerHTML = loader();
 
   mountHTML({ githubUser, aboutData }, aboutEl);
+  aboutEl.classList.add("about--animated");
 };

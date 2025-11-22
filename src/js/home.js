@@ -19,6 +19,20 @@ const mountListRecipes = (recipes, categories, recipesListEl) => {
   }
 };
 
+const clickRecipeListener = () => {
+  const recipeEl = document.querySelectorAll(".recipes-list__item");
+
+  if (recipeEl.length)
+    recipeEl.forEach((recipe) => {
+      recipe.addEventListener("click", () => {
+        const recipeId = recipe.getAttribute("data-id");
+
+        localStorage.setItem("recipeId", recipeId);
+        window.location.href = "../src/recipe.html";
+      });
+    });
+};
+
 window.onload = async () => {
   const recipesListEl = document.querySelector(".recipes-list");
   const btnRandomReciteEl = document.querySelector(".button_random-recipe");
@@ -31,6 +45,9 @@ window.onload = async () => {
   const searchButtonEl = document.querySelector("#searchButton");
 
   mountListRecipes(recipes, categories, recipesListEl);
+  recipesListEl.classList.add("recipes-list--animated");
+
+  clickRecipeListener();
 
   searchButtonEl.addEventListener("click", () => {
     const searchValue = searchInputEl.value;
@@ -45,17 +62,7 @@ window.onload = async () => {
 
       recipesListEl.innerHTML += recipesList(recipe, category);
     });
-  });
-
-  const recipeEl = document.querySelectorAll(".recipes-list__item");
-
-  recipeEl.forEach((recipe) => {
-    recipe.addEventListener("click", () => {
-      const recipeId = recipe.getAttribute("data-id");
-
-      localStorage.setItem("recipeId", recipeId);
-      window.location.href = "../src/recipe.html";
-    });
+    clickRecipeListener();
   });
 
   btnRandomReciteEl.addEventListener("click", () => {
