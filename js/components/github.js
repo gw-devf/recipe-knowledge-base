@@ -1,7 +1,7 @@
 export default function github(data) {
   return `
     <div class="about__author">
-      <img class="about__author__img" src="${data.avatar_url}" alt="Foto do Github de ${data.name}" />
+      <img class="about__author__img" src="${data.avatar_url}" alt="Foto do Github - ${data.name}" />
 
       <div class="about__author__content">
         <h2>${data.name}</h2>

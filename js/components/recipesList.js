@@ -21,7 +21,7 @@ export default function recipesList(recipe, category) {
       </div>
 
       <span class="recipes-list__arrow">
-        <img src="https://gw-devf.github.io/recipe-knowledge-base/assets/arrow.svg" alt="Ĩcone flexa" />
+        <img src="https://gw-devf.github.io/recipe-knowledge-base/assets/arrow.svg" alt="Ícone flecha" />
       </span>
     </article>
   `;
