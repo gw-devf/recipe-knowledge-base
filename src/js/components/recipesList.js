@@ -16,7 +16,7 @@ export default function recipesList(recipe, category) {
             <span class="category-wrapper__description">${category.name}</span>
           </div>
 
-          <h5 class="recipes-list__content__updated-at">${recipe.updated_at}</h5>
+          <h5 class="recipes-list__content__updated-at"><b>Última atualização:</b> ${recipe.updated_at}</h5>
         </div>
       </div>
 
