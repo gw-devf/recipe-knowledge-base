@@ -20,6 +20,7 @@ const mountListRecipes = (recipes, categories, recipesListEl) => {
 
 window.onload = async () => {
   const recipesListEl = document.querySelector(".recipes-list");
+  const btnRandomReciteEl = document.querySelector(".button_random-recipe");
 
   recipesListEl.innerHTML = loader();
 
@@ -54,5 +55,12 @@ window.onload = async () => {
       localStorage.setItem("recipeId", recipeId);
       window.location.href = "../src/recipe.html";
     });
+  });
+
+  btnRandomReciteEl.addEventListener("click", () => {
+    const randomRecipeId = Math.floor(Math.random() * recipes.length) + 1;
+
+    localStorage.setItem("recipeId", randomRecipeId);
+    window.location.href = "../src/recipe.html";
   });
 };
