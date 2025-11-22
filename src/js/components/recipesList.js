@@ -1,6 +1,6 @@
 export default function recipesList(recipe, category) {
   return `
-    <article class="recipes-list__item">
+    <article class="recipes-list__item" data-id="${recipe.id}">
       <div class="recipes-list__content-wrapper">
         <img class="recipes-list__img" src="${recipe.img}" alt="${recipe.name}" />
 

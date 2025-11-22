@@ -44,4 +44,15 @@ window.onload = async () => {
       recipesListEl.innerHTML += recipesList(recipe, category);
     });
   });
+
+  const recipeEl = document.querySelectorAll(".recipes-list__item");
+
+  recipeEl.forEach((recipe) => {
+    recipe.addEventListener("click", () => {
+      const recipeId = recipe.getAttribute("data-id");
+
+      localStorage.setItem("recipeId", recipeId);
+      window.location.href = "../src/recipe.html";
+    });
+  });
 };
