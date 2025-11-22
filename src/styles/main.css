@@ -91,6 +91,14 @@ body {
   transition: 0.3s ease-in-out;
   font-size: 16px;
   font-weight: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.button > svg {
+  fill: var(--color-primary-10);
 }
 
 .button:hover {
