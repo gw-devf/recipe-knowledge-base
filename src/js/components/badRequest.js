@@ -1,4 +1,4 @@
-export default function () {
+export default function badRequest() {
   return `
     <div class="bad-request">
       <img class="bad-request__img" src="../assets/bad-request.png" alt="Requisição da API não foi bem sucedida" />

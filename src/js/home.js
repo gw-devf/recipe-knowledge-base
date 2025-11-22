@@ -1,5 +1,6 @@
 import getData from "./utils/getData.js";
 import findCategoryName from "./utils/findCategoryName.js";
+
 import recipesList from "./components/recipesList.js";
 import loader from "./components/loader.js";
 import badRequest from "./components/badRequest.js";
