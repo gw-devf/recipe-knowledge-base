@@ -145,6 +145,15 @@ body {
   font-size: 20px;
   font-weight: 500;
   color: var(--color-primary-07);
+  padding: 16px;
+}
+
+.not-found-search {
+  padding: 16px;
+  border-radius: 8px;
+  background-color: var(--color-primary-01);
+  color: var(--color-primary-07);
+  font-size: 20px;
 }
 
 .header {
@@ -668,6 +677,10 @@ body {
   .bad-request__message {
     font-size: 16px;
     padding: 0 24px;
+  }
+
+  .not-found-search {
+    font-size: 16px;
   }
 
   .header {

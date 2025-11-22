@@ -28,8 +28,7 @@ const clickRecipeListener = () => {
         const recipeId = recipe.getAttribute("data-id");
 
         localStorage.setItem("recipeId", recipeId);
-        window.location.href =
-          "https://gw-devf.github.io/recipe-knowledge-base/recipe.html";
+        window.location.href = "../recipe.html";
       });
     });
 };
@@ -50,7 +49,8 @@ window.onload = async () => {
 
   clickRecipeListener();
 
-  searchButtonEl.addEventListener("click", () => {
+  searchButtonEl.addEventListener("click", (event) => {
+    event.preventDefault();
     const searchValue = searchInputEl.value;
 
     const recipeSearched = recipes.filter((recipe) =>
@@ -58,19 +58,22 @@ window.onload = async () => {
     );
 
     recipesListEl.innerHTML = "";
-    recipeSearched.forEach((recipe) => {
-      const category = findCategoryName(categories, recipe.category);
+    if (recipeSearched.length) {
+      recipeSearched.forEach((recipe) => {
+        const category = findCategoryName(categories, recipe.category);
 
-      recipesListEl.innerHTML += recipesList(recipe, category);
-    });
-    clickRecipeListener();
+        recipesListEl.innerHTML += recipesList(recipe, category);
+      });
+      clickRecipeListener();
+    } else {
+      recipesListEl.innerHTML = `<div class="not-found-search">Não temos uma receita de "${searchValue}" 😔. Procure por outra receita que temos no catálogo 😉"</div>`;
+    }
   });
 
   btnRandomReciteEl.addEventListener("click", () => {
     const randomRecipeId = Math.floor(Math.random() * recipes.length) + 1;
 
     localStorage.setItem("recipeId", randomRecipeId);
-    window.location.href =
-      "https://gw-devf.github.io/recipe-knowledge-base/recipe.html";
+    window.location.href = "../recipe.html";
   });
 };

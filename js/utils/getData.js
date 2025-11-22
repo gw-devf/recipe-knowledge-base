@@ -1,5 +1,4 @@
-const url =
-  "https://raw.githubusercontent.com/gw-devf/recipe-knowledge-base/refs/heads/main/db";
+const url = "../../db";
 
 export default async function getData(path = "/") {
   try {

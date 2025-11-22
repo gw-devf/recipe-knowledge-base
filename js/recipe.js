@@ -18,7 +18,7 @@ const mountRecipe = (recipeClicked, categories, recipeEl) => {
 
 window.onload = async () => {
   if (localStorage.getItem("recipeId") === null) {
-    window.location.href = "https://gw-devf.github.io/recipe-knowledge-base/";
+    window.location.href = "../index.html";
   }
   const recipeEl = document.querySelector(".recipe");
 
@@ -35,7 +35,7 @@ window.onload = async () => {
 
   const button = document.querySelector(".button");
   button.addEventListener("click", () => {
-    window.location.href = "https://gw-devf.github.io/recipe-knowledge-base/";
+    window.location.href = "../recipe.html";
     localStorage.removeItem("recipeId");
   });
 };
