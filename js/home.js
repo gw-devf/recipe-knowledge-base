@@ -28,7 +28,7 @@ const clickRecipeListener = () => {
         const recipeId = recipe.getAttribute("data-id");
 
         localStorage.setItem("recipeId", recipeId);
-        window.location.href = "../recipe.html";
+        window.location.href = "/recipe.html";
       });
     });
 };
@@ -53,6 +53,11 @@ window.onload = async () => {
     event.preventDefault();
     const searchValue = searchInputEl.value;
 
+    if (recipes === null) {
+      alert("Erro na requisição dos dados. Tente novamente mais tarde.");
+      return;
+    }
+
     const recipeSearched = recipes.filter((recipe) =>
       recipe.name.toLowerCase().includes(searchValue.toLowerCase()),
     );
@@ -71,9 +76,14 @@ window.onload = async () => {
   });
 
   btnRandomReciteEl.addEventListener("click", () => {
+    if (recipes === null) {
+      alert("Erro na requisição dos dados. Tente novamente mais tarde.");
+      return;
+    }
+
     const randomRecipeId = Math.floor(Math.random() * recipes.length) + 1;
 
     localStorage.setItem("recipeId", randomRecipeId);
-    window.location.href = "../recipe.html";
+    window.location.href = "/recipe.html";
   });
 };
