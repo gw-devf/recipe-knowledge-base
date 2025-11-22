@@ -84,6 +84,31 @@ body {
   transform: scale(1.1);
 }
 
+.bad-request {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  background-color: var(--color-primary-01);
+  border-radius: 8px;
+}
+
+.bad-request__img {
+  width: 100%;
+  max-width: 500px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.bad-request__message {
+  width: 100%;
+  max-width: 500px;
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--color-primary-07);
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -214,6 +239,14 @@ body {
 }
 
 @media (max-width: 1024px) {
+  .bad-request__img {
+    max-width: 300px;
+  }
+
+  .bad-request__message {
+    font-size: 18px;
+  }
+
   .recipes-list__item {
     gap: 0;
   }
@@ -224,6 +257,24 @@ body {
 }
 
 @media (max-width: 768px) {
+  .bad-request {
+    flex-direction: column;
+    justify-content: center;
+    gap: 24px;
+  }
+
+  .bad-request__img {
+    max-width: initial;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 0;
+  }
+
+  .bad-request__message {
+    font-size: 16px;
+    padding: 0 24px;
+  }
+
   .header {
     display: flex;
     flex-direction: column;
