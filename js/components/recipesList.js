@@ -21,7 +21,7 @@ export default function recipesList(recipe, category) {
       </div>
 
       <span class="recipes-list__arrow">
-        <img src="../assets/arrow.svg" alt="Ĩcone flexa" />
+        <img src="../../assets/arrow.svg" alt="Ĩcone flexa" />
       </span>
     </article>
   `;
