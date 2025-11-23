@@ -28,7 +28,7 @@ const clickRecipeListener = () => {
         const recipeId = recipe.getAttribute("data-id");
 
         localStorage.setItem("recipeId", recipeId);
-        window.location.href = "/recipe.html";
+        window.location.href = "recipe.html";
       });
     });
 };
@@ -84,6 +84,6 @@ window.onload = async () => {
     const randomRecipeId = Math.floor(Math.random() * recipes.length) + 1;
 
     localStorage.setItem("recipeId", randomRecipeId);
-    window.location.href = "/recipe.html";
+    window.location.href = "recipe.html";
   });
 };
