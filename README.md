@@ -47,8 +47,6 @@ O desenvolvimento foi guiado por princípios de código limpo, semântica e padr
 | **Controle de Versão** | **Conventional Commits** para padronização e fluxo de desenvolvimento baseado na branch temporária `develop` até o deploy final.                           |
 | **Design**             | Criação da UI no **Figma**, utilizando as fontes **Playfair** e **Poppins**, com uma paleta de cores primária em tons de laranja/amarelo e cinzas neutros. |
 
-> **Nota:** O protótipo do Figma será anexado ao README futuramente, após uma organização mais completa.
-
 ---
 
 ### 🔗 Acesse e Explore!
